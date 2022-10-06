@@ -1,0 +1,11 @@
+package pack
+
+object obj3 {
+
+def main(args:Array[String]):Unit={
+
+
+			println("================Started1============")
+
+			println
+      }}
